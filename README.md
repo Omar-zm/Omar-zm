@@ -1,5 +1,13 @@
 # 💫 About Me:
-Why do Java developers wear glasses?<br><br>Because they can’t C#.<br><br>Hi there,  my name is Omar Zaib Mahmood, and I'm actually not a Java Developer, my expertise and passion are within Cloud computing and I am currently a Cloud Devops Engineer
+Why do Java developers wear glasses?<br><br>Because they can’t C#.<br><br>Hi there,  
+
+~$ whoami 
+Hi there my name is Omar Zaib Mahmood!
+
+~$ pwd
+Cloud DevOps Engineer!
+
+
 
 
 ## 🌐 Socials:

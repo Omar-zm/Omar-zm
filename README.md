@@ -1,16 +1,19 @@
+
+
+
+
 # 💫 About Me:
-Why do Java developers wear glasses?<br><br>Because they can’t C#.<br><br>Hi there,  
 
-~$ whoami 
-Hi there my name is Omar Zaib Mahmood!
+`:~# whoami` **Cloud DevOps Engineer!** 🐱‍🏍
 
-~$ pwd
-Cloud DevOps Engineer!
+`:~# hostname` **Omar Zaib Mahmood** 😁
+
+`:~# pwd` **Capgemini** 👀
+
+Capgemini
 
 
-
-
-## 🌐 Socials:
+                                                       🌐 You can find me on!:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omarmahmoodrecruitment) 
 
 # 💻 Tech Stack:

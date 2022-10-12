@@ -10,7 +10,6 @@
 
 `:~# pwd` **Capgemini** 👀
 
-Capgemini
 
 
                                                        🌐 You can find me on!:
